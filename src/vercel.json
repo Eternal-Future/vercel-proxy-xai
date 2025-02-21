@@ -1,9 +1,9 @@
 {
     "rewrites": [
-        { "source": "/", "destination": "https://api.openai.com" },
+        { "source": "/", "destination": "https://api.x.ai" },
         {
             "source": "/:match*",
-            "destination": "https://api.openai.com/:match*"
+            "destination": "https://api.x.ai/:match*"
         }
     ],
     "github": {
