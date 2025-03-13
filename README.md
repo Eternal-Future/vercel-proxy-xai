@@ -191,7 +191,7 @@ fetch("https://YOUR DOMAIN（改成你的域名）/v1/chat/completions", request
 
 1. 点击一键部署按钮
 
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FLinLin00000000%2Fvercel-proxy-openai&project-name=vercel-proxy-openai&repository-name=vercel-proxy-openai&root-directory=src)
+   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FEternal-Future%2Fvercel-proxy-xai&project-name=vercel-proxy-xai&repository-name=vercel-proxy-xai&root-directory=src)
 
 2. 用 Github 登录 Vercel，没有 Github 账户的去注册一个，网上很多教程就不展开了
 ![Vercel login](doc/2023-04-11-21-42-30.png)
