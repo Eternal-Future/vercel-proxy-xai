@@ -1,3 +1,7 @@
+由 github.com/LinLin00000000/vercel-proxy-openai 改动
+# 从OpenAI API更换到 xAI API
+# 添加了https://<域名>/status.check 用于HTTP-GET的状态监测
+
 # 使用 Vercel 反代 openai （图文教程）
 
 - [使用 Vercel 反代 openai （图文教程）](#使用-vercel-反代-openai-图文教程)
