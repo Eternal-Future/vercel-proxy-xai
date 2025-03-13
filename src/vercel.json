@@ -1,7 +1,7 @@
 {
   "redirects": [
     {
-      "source": "/status-check",  //用于HTTP-GET状态监测
+      "source": "/status-check",  
       "destination": "/", 
       "statusCode": 200 
     }
